@@ -1,5 +1,7 @@
 # return-killer-PopClip-Extension
 
+删除所有引号、空格、回车和 Tab
+
 ```
 # popclip return kill
 name: ReturnKiller
